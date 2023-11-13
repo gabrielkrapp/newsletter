@@ -35,7 +35,7 @@ The steps to obtain the MailChimp URL were followed according to a tutorial whic
 
 ### Desktop View
 
-![Desktop View](./src/assets/desktop-screenshot.png)
+![Desktop View](./src/assets/desktop-print.png)
 
 ### Mobile View
 
