@@ -1,12 +1,11 @@
-import './App.css'
+import { SimpleForm } from "./components/MailChimpForm";
 
 function App() {
-
   return (
-    <>
-      <h1>Hello</h1>
-    </>
-  )
+    <div>
+      <SimpleForm />
+    </div>
+  );
 }
 
-export default App
+export default App;
