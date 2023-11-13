@@ -28,7 +28,7 @@ To use this application, you need to set up your MailChimp account:
 
 Ensure these values are kept secret and are not committed to your git repository.
 
-The steps to obtain the MailChimp URL were followed according to a tutorial which can be found ![here](https://blog.afrieirham.com/how-to-integrate-mailchimp-with-react).
+The steps to obtain the MailChimp URL were followed according to a tutorial which can be found [here](https://blog.afrieirham.com/how-to-integrate-mailchimp-with-react).
 
 
 ## Screenshots
