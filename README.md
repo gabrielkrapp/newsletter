@@ -24,7 +24,6 @@ To use this application, you need to set up your MailChimp account:
 
    ```env
    VITE_MAILCHIMP_API_KEY=your_mailchimp_api_key
-   VITE_MAILCHIMP_LIST_ID=your_mailchimp_list_id
    ```
 
 Ensure these values are kept secret and are not committed to your git repository.
