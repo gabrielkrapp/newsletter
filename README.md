@@ -18,15 +18,18 @@ This React and TypeScript application allows users to subscribe to a newsletter.
 
 To use this application, you need to set up your MailChimp account:
 
-1. Obtain your MailChimp API Key.
+1. Obtain your MailChimp URL.
 2. Create a `.env` file in the root directory of the project.
-3. Add your MailChimp API Key to the `.env` file:
+3. Add your MailChimp URL to the `.env` file:
 
    ```env
-   VITE_MAILCHIMP_API_KEY=your_mailchimp_api_key
+   VITE_MAILCHIMP_URL=your_mailchimp_url
    ```
 
 Ensure these values are kept secret and are not committed to your git repository.
+
+The steps to obtain the MailChimp URL were followed according to a tutorial which can be found ![here](https://blog.afrieirham.com/how-to-integrate-mailchimp-with-react).
+
 
 ## Screenshots
 
